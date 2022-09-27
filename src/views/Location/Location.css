@@ -1,0 +1,86 @@
+.top-tier{
+    margin: 20px auto;
+    width: 380px;
+    height: 400px;
+   /* border: 1px solid green;*/
+  }
+
+  .icon-1{
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    background-color: white;
+    box-shadow:  1px 1px 8px;
+  }
+
+  .fa-solid{
+    color: black;
+  }
+
+  .big-location{
+    margin-top: 100px; 
+  }
+
+  .icon-2{
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin-right: 30px;
+    margin-top: 110px;
+    background-color: white;
+    box-shadow:  1px 1px 8px;
+  }
+
+  .bottom-tier{
+    margin: 70px auto;
+    width: 400px;
+    height: 260px;
+    /*border: 1px solid blue;*/
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    background-color: white;
+    box-shadow: 1px -4px 2px 0px #888888;
+  }
+
+  .text{
+    margin-right: 150px;
+    font-weight: 900;
+    /*border: 1px solid red;*/
+    padding: 15px;
+  }
+
+  .flex{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+
+  .loc-icon{
+    background-color: #1152FD;
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+  }
+
+  .fa-location-dot{
+    color: white;
+  }
+
+  .des-btn{
+    border-radius: 15px;
+    margin-top: 19px;
+    margin-left: 50px;
+    width: 300px;
+    height: 50px;
+    color: white;
+  }
+
+  .btn-text{
+    padding: 15px;
+    font-weight: bold;
+  }

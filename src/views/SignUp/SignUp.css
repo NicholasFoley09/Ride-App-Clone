@@ -1,0 +1,19 @@
+h3{
+    margin-top: 35px;
+}
+
+
+.signUp-btn{
+    width: 300px;
+    margin-top: 70px;
+    padding: 18px;
+}
+
+.desc-up{
+    width: 300px;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
